@@ -4,7 +4,6 @@
         id          = "[com.foodelicious.thescratcher99point9.edu.mit.scratch.www]"
         versionCode = "10" 
         version     = "1.0.0" 
-
     <!-- versionCode is optional and Android only -->
 
     <name>[Foodelicious]</name>
